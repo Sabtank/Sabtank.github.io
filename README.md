@@ -25,4 +25,6 @@ Updating aebe30d..5c497c9
 Fast-forward
  README.md | 11 +++++++++++
  1 file changed, 11 insertions(+)
+
+ Добавили скрипт, заполнена функция, сохранение результата
  
